@@ -22,7 +22,3 @@ This mod adds a series of rings to help you explore the world in search of ores 
 - To use, right-click with the **prospecting stick** to activate the ability. For the **prospecting ring**, equip it in the **Curios/Baubles slot** and the ability will be automatically activated.
 - The rings will prospect vertically along the Y-axis, from bedrock to your current player position.
 - Once the corresponding ore is detected, a musical note will play to alert you.
-
-### More rings to come in future updates!
-
-With this mod, finding valuable resources becomes easier and more fun, making your prospecting adventures smoother!
